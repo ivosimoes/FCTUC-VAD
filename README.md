@@ -34,6 +34,8 @@ The project was made and tested using Python 3.12.9. To install the necessary pa
 
 **Make sure** that the *assets* and *data* folders, containing the necessary sprites and datasets, respectively, are in the same directory as the *website.py* script.
 
+*IMPORTANT: The dataset pertaining to the reviews (reviews_complete_final_v2.csv) is hosted on [HuggingFace](https://huggingface.co/datasets/ivosimoes/FCTUC-VAD-Reviews) due to file size.*
+
 ### Running and accessing the website
 
 Execute the *website.py* script (**python website.py**). By default, the website will be running locally on **127.0.0.1:8050** (you can access it on http://127.0.0.1:8050). You can change the host settings on the very last line of the source file.
